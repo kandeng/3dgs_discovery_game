@@ -2,6 +2,13 @@
 
 A Progressive Web App (PWA) exploration game built on 3D Gaussian Splatting (3DGS) technology. Navigate through photorealistic 3D scenes captured from real-world environments and discover hidden markers as you explore.
 
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=RCbC89QfhJo">
+    <img src="https://img.youtube.com/vi/RCbC89QfhJo/maxresdefault.jpg" alt="3DGS Discovery Game Demo" style="width:80%;">
+  </a>
+</p>
+
 ## Features
 
 - **Photorealistic 3D Scenes** — Powered by 3D Gaussian Splatting for real-time rendering of captured environments
